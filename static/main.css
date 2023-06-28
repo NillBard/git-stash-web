@@ -1,0 +1,14 @@
+@font-face {
+  font-style: normal;
+  font-display: swap;
+  font-family: 'Steppe';
+  font-weight: 400;
+  src: url(./fonts/Steppe-Regular.otf) format('opentype');
+}
+@font-face {
+  font-style: normal;
+  font-display: swap;
+  font-family: 'Steppe';
+  font-weight: 700;
+  src: url(./fonts/Steppe-Bold.otf) format('opentype');
+}
